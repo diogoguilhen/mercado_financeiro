@@ -1,0 +1,8 @@
+*.csv
+*.xslx
+node_modules/
+/test-results/
+/playwright-report/
+/playwright/.cache/
+Estudo_carteira.ipynb
+/booker/__pycache__
